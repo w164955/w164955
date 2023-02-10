@@ -1,5 +1,10 @@
 ### Hi there，I am [WAliensky](https://github.com/w164955) :alien:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisstibex&layout=compact&theme=vue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&)](https://github.com/w164955/Config)
+### 麻烦各位点点关注 别忘了Star
+![WAliensky's GitHub stats](https://github-readme-stats.vercel.app/api?username=w164955&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=vue)
+
+
 📄| Rules | 规矩  |
 |  ----  | ----  | --- |
 ⛔️| Fork is prohibited from any repository | 任何仓库都禁止Fork |
@@ -22,6 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisstibex&layout=compact&theme=vue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&)](https://github.com/w164955/Config)
-
-![WAliensky's GitHub stats](https://github-readme-stats.vercel.app/api?username=w164955&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=vue)
